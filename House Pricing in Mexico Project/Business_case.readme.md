@@ -1,5 +1,5 @@
 ## 💼 Business Case
-Real estate markets are influenced by multiple factors — location, property size, market demand, and economic conditions.  
+Real estate markets are influenced by multiple factors - location, property size, market demand, and economic conditions.  
 For investors, developers, and policy makers, **knowing whether price is more driven by location or size** can influence:
 
 - **Investment strategy:** Prioritizing location vs. expanding floor space.
